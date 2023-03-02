@@ -1,13 +1,16 @@
 <h1>GameCushy.com<h1>
-<h3>Welcome to GameCushy.com! We are an ecommerce store that offers the latest and greatest tech items on the market. Our website is built using Next.js, React/JSX, and Sanity API, and we utilize Stripe API for secure and seamless payments. We also implement server-side rendering for enhanced performance and user experience.<h3>
+<h3>Welcome to GameCushy.com!<h3>
+<h4>We are an ecommerce store that offers the latest and greatest tech items on the market. Our website is built using Next.js, React/JSX, and Sanity API, and we utilize Stripe API for secure and seamless payments. We also implement server-side rendering for enhanced performance and user experience.<h4>
 
 <h1>Features:<h1>
-<h4>
+<h4>Here are the features of the application:
+
 1. Browse and purchase the latest tech items
 2. Secure and seamless payment processing through Stripe API
 3. Enhanced performance and user experience through server-side rendering
 4. User-friendly interface built with Next.js and React/JSX
-5. Content management system powered by Sanity API<h4>
+5. Content management system powered by Sanity API
+<h4>
 
 <h1>Installation<h1>
 <h4>To run the GameCushy.com project locally, follow these steps:

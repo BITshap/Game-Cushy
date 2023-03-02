@@ -1,3 +1,32 @@
+GameCushy.com
+Welcome to GameCushy.com! We are an ecommerce store that offers the latest and greatest tech items on the market. Our website is built using Next.js, React/JSX, and Sanity API, and we utilize Stripe API for secure and seamless payments. We also implement server-side rendering for enhanced performance and user experience.
+
+Features
+Browse and purchase the latest tech items
+Secure and seamless payment processing through Stripe API
+Enhanced performance and user experience through server-side rendering
+User-friendly interface built with Next.js and React/JSX
+Content management system powered by Sanity API
+Installation
+To run the GameCushy.com project locally, follow these steps:
+
+1. Clone the repository to your local machine
+2. Install dependencies by running npm install
+3. Configure your Stripe API key and Sanity API credentials in the .env.local file
+4. Run the development server with npm run dev
+Contributing
+We welcome contributions to GameCushy.com! To contribute, please follow these steps:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Make your changes and commit them with descriptive commit messages
+Push your changes to your fork
+Create a pull request to the main repository
+License
+This project is licensed under the MIT License.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -6,9 +35,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
